@@ -3,11 +3,11 @@
 fun main() {
     var from = "E2"
     var to = "E4"
-    var stepNumber = 1;
+    var stepNumber = 1
     println("$from -> $to in $stepNumber steps")
     from = "D2"
     to = "D3"
-    stepNumber = 2;
+    stepNumber = 2
     println("$from -> $to in $stepNumber steps")
 
 }
